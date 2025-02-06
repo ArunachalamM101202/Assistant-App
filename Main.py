@@ -456,7 +456,7 @@ def main():
             </style>
             """, unsafe_allow_html=True)
 
-    st.title("OpenAI Assistant Chat")
+    st.title("Rodney ChatBot")
 
     # Sidebar content
     with st.sidebar:
