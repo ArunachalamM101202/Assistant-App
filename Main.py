@@ -186,7 +186,7 @@ def main():
             ---
             <div style='text-align: center; color: #666; padding: 1rem 0;'>
                 <p>v1.0.1 | Powered by OpenAI</p>
-                <p>Developed by Paul Accito</p>
+                <p>Developed by Paul Acito</p>
                 <p style='font-size: 0.8rem;'></p>
             </div>
         """, unsafe_allow_html=True)
